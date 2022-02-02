@@ -1,12 +1,12 @@
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
-	"thumbnail":"./settings/haruka.jpg",
+	"ownername":"AnggaKz☠⚡",
+	"ownernumber":"6281998425782",
+	"botname":"Lisabotz❤🍭",
+	"thumbnail":"./settings/FB_IMG_16422080106540587.jpg",
 	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
 	"limit": {
-		"free":20,
-		"premium":1000
+		"free":10,
+		"premium":9999999
 	},
 	"session_name":"./session.json"
 }
